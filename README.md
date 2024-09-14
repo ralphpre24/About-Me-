@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ralphpre24
+- 👋 Hi, I’m Ralph!
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning Github and Coding
-- 💞️ I’m looking to collaborate on ...(n/a)
-- 📫 How to reach me ...(n/a)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I like Cycling
 
 <!---
